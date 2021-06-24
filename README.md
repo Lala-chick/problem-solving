@@ -3,13 +3,13 @@
 
 - 발제자: 조민정
 
-|  **문제번호** | **이름** | **난이도** | **링크** |
-| :-------------------------------: | :--------: | :--------: | :------: |
-|   11399     | ATM                | -        |   [링크](https://www.acmicpc.net/problem/11399)   |
-|   2839      | 설탕 배달           |    -      |   [링크](https://www.acmicpc.net/problem/2839)   |
-|   2667      | 단지번호붙이기       |  -        |   [링크](https://www.acmicpc.net/problem/2667)   |
-|   2504      | 괄호의 값           | -         |   [링크](https://www.acmicpc.net/problem/2504)   |
-|   7576      | 토마토              |  -        |   [링크](https://www.acmicpc.net/problem/7576)   |
+|  **문제번호** | **이름** | **링크** |
+| :-------------------------------: | :--------: | :------: |
+|   11399     | ATM                |   [링크](https://www.acmicpc.net/problem/11399)   |
+|   2839      | 설탕 배달           |      [링크](https://www.acmicpc.net/problem/2839)   |
+|   2667      | 단지번호붙이기       |    [링크](https://www.acmicpc.net/problem/2667)   |
+|   2504      | 괄호의 값           |   [링크](https://www.acmicpc.net/problem/2504)   |
+|   7576      | 토마토              |     [링크](https://www.acmicpc.net/problem/7576)   |
 
 
 
@@ -17,13 +17,13 @@
 
 - 현재까지 풀이한 문제 목록
 
-|    발제일    |  **문제번호** | **이름**  | **난이도** |                   **링크**                    |
-| :----------: | :--------:  | :--------: |:--------: | :-------------------------------------------: |
-| 2021. 06. 23 |      11399 |  ATM      |     -      | [링크](https://www.acmicpc.net/problem/11399) |
-| 2021. 06. 23 |   2839 | 설탕 배달    |     -      | [링크](https://www.acmicpc.net/problem/2839)  |
-| 2021. 06. 23 | 2667 | 단지번호붙이기 |     -      | [링크](https://www.acmicpc.net/problem/2667)  |
-| 2021. 06. 23 |   2504 | 괄호의 값    |     -      | [링크](https://www.acmicpc.net/problem/2504)  |
-| 2021. 06. 23 |     7576 | 토마토     |     -      | [링크](https://www.acmicpc.net/problem/7576)  |
+|    발제일    |  **문제번호** | **이름**  |                   **링크**                    |
+| :----------: | :--------:  | :--------: | :-------------------------------------------: |
+| 2021. 06. 23 |      11399 |  ATM      | [링크](https://www.acmicpc.net/problem/11399) |
+| 2021. 06. 23 |   2839 | 설탕 배달    | [링크](https://www.acmicpc.net/problem/2839)  |
+| 2021. 06. 23 | 2667 | 단지번호붙이기 | [링크](https://www.acmicpc.net/problem/2667)  |
+| 2021. 06. 23 |   2504 | 괄호의 값    | [링크](https://www.acmicpc.net/problem/2504)  |
+| 2021. 06. 23 |     7576 | 토마토     | [링크](https://www.acmicpc.net/problem/7576)  |
 
 
 ## Members
