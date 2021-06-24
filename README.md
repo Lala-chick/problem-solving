@@ -1,7 +1,6 @@
 # Problem Solving
 ## Day 01 | 2021. 06. 23
 
-- 발제자: 조민정
 
 |  **문제번호** | **이름** | **링크** |
 | :-------------------------------: | :--------: | :------: |
@@ -10,6 +9,18 @@
 |   2667      | 단지번호붙이기       |    [링크](https://www.acmicpc.net/problem/2667)   |
 |   2504      | 괄호의 값           |   [링크](https://www.acmicpc.net/problem/2504)   |
 |   7576      | 토마토              |     [링크](https://www.acmicpc.net/problem/7576)   |
+
+## Day 01 | 2021. 06. 23
+
+
+|  **문제번호** | **이름** | **링크** |
+| :-------------------------------: | :--------: | :------: |
+|   1012     | 유기농배추                |   [링크](https://www.acmicpc.net/problem/1012)   |
+|   1541      | 잃어버린 괄호           |      [링크](https://www.acmicpc.net/problem/1541)   |
+|   1991      | 트리 순회       |    [링크](https://www.acmicpc.net/problem/1991)   |
+|   9012      | 괄호           |   [링크](https://www.acmicpc.net/problem/9012)   |
+|   1244      | 스위치 켜고 끄기              |     [링크](https://www.acmicpc.net/problem/1244)   |
+|   2947      | 나무조각              |     [링크](https://www.acmicpc.net/problem/2947)   |
 
 
 
