@@ -22,7 +22,18 @@
 |   1244      | 스위치 켜고 끄기              |     [링크](https://www.acmicpc.net/problem/1244)   |
 |   2947      | 나무조각              |     [링크](https://www.acmicpc.net/problem/2947)   |
 
+## Day 03 | 2021. 06. 25
 
+
+|  **문제번호** | **이름** | **링크** |
+| :-------------------------------: | :--------: | :------: |
+|   14501     | 퇴사                |   [링크](https://www.acmicpc.net/problem/14501)   |
+|   1697      | 숨바꼭질           |      [링크](https://www.acmicpc.net/problem/1697)   |
+|   2606      | 바이러스       |    [링크](https://www.acmicpc.net/problem/2606)   |
+|   11725      | 트리의 부모 찾기     |   [링크](https://www.acmicpc.net/problem/11725)   |
+|   1931      | 회의실 배정        |     [링크](https://www.acmicpc.net/problem/1931)   |
+|   1021      | 회전하는 큐       |     [링크](https://www.acmicpc.net/problem/1021)   |
+|   1927      | 최소 힙       |     [링크](https://www.acmicpc.net/problem/1927)   |
 
 
 
