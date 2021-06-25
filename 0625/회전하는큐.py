@@ -1,7 +1,7 @@
 def rotating_queue(N, wanted):
 
-    queue = [i+1 for i in range(N)]
-    queue_reverse = [i+1 for i in range(N)]
+    queue = [i + 1 for i in range(N)]
+    queue_reverse = [i + 1 for i in range(N)]
 
     cnt = 0
 
@@ -19,21 +19,22 @@ def rotating_queue(N, wanted):
             if queue[0] == number:
                 queue.pop(0)
                 break
-        
+
         while True:
             queue_reverse = [queue_reverse[-1]] + queue_reverse[:-1]
             left += 1
             if queue_reverse[0] == number:
                 queue_reverse.pop(0)
                 break
-        
+
         cnt += min(left, right)
 
     return cnt
+
 
 N, M = list(map(int, input().split()))
 wanted = list(map(int, input().split()))
 
 answer = rotating_queue(N, wanted)
-    
+
 print(answer)

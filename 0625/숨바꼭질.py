@@ -1,9 +1,10 @@
 from collections import deque
 
+
 def bfs(N, K):
     queue = deque()
     queue.append((N, 0))
-    
+
     dts = [1, -1, N]
     visited = [0 for _ in range(100001)]
 
@@ -16,8 +17,8 @@ def bfs(N, K):
         for dt in dts:
             mn = n + dt
             if 0 <= mn < 100001 and visited[mn] == 0:
-                    queue.append((mn, cnt+1))
-        
+                queue.append((mn, cnt + 1))
+
 
 N, K = list(map(int, input().split()))
 answer = bfs(N, K)
