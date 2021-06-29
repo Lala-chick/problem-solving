@@ -35,6 +35,16 @@
 |   1021      | 회전하는 큐       |     [링크](https://www.acmicpc.net/problem/1021)   |
 |   1927      | 최소 힙       |     [링크](https://www.acmicpc.net/problem/1927)   |
 
+## Day 04 | 2021.06.29
+
+|  **문제번호** | **이름** | **링크** |
+| :-------------------------------: | :--------: | :------: |
+|   2960     | 에라토스테네스의 체       |   [링크](https://www.acmicpc.net/problem/2960)   |
+|   1654      | 랜선 자르기        |      [링크](https://www.acmicpc.net/problem/1654)   |
+|   11727      | 2xn 타일링 2       |    [링크](https://www.acmicpc.net/problem/11727)   |
+|   1753      | 최단경로     |   [링크](https://www.acmicpc.net/problem/1753)   |
+|   11404      | 플로이드        |     [링크](https://www.acmicpc.net/problem/11404)   |
+|   11657      | 타임머신       |     [링크](https://www.acmicpc.net/problem/11657)   |
 
 
 ## Members
