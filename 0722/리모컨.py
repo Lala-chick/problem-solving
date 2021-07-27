@@ -4,7 +4,7 @@ def go_channel(N, break_buttons):
     if N == 100:
         return 0
     ans = abs(N - 100)
-    for i in range(1000000):
+    for i in range(1000001):
         for num in str(i):
             if num in break_buttons:
                 break
