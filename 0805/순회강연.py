@@ -11,7 +11,6 @@ for p, d in pd:
     if len(heap) > d:
         while len(heap) > d:
             heapq.heappop(heap)
-print(heap)
 answer = 0
 
 for p, _ in heap:
