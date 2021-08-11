@@ -27,4 +27,4 @@ for win in range(0, 21):
 
 for i in range(5):
     tmp = round(tier[i], 8)
-    print(format(tmp, '.8f'))
+    print(f"{tmp:.8f}")
